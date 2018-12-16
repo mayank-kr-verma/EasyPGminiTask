@@ -1,4 +1,4 @@
-# EasyPGminiTask
+# EazyPGminiTask
 
 App starts with Login screen and has a link to go to Registration screen. Login is done using email and password while Firebase authentication provides the backend and necessary validation.
 

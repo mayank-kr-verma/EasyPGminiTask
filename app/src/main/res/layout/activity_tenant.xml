@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TenantActivity">
+
+    <Button
+        android:id="@+id/signout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LogOut" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tenant"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/billPay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pay Bill" />
+
+    <Button
+        android:id="@+id/rentPay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pay Rent" />
+
+    <Button
+        android:id="@+id/complaint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Raise Complaint" />
+
+    <Button
+        android:id="@+id/chatbot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chat" />
+</LinearLayout>

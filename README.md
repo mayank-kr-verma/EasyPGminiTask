@@ -48,7 +48,7 @@ Upon clicking on individual complaints, Owner can mark it as received or complet
 ![Complaint Dialog Screen](screenshots/17.png?raw=true "Complaint Dialog Screen")
 ![Complaint Dialog Screen](screenshots/18.png?raw=true "Complaint Dialog Screen")
 
-Firebase database and authentication was used in building this app and database looks as follows.
+Firebase database and authentication was used in building this app and database looks as follows
 
 ![Firebase Database](screenshots/19.png?raw=true "Firebase Database")
 ![Firebase Authentication](screenshots/20.png?raw=true "Firebase Authentication")
